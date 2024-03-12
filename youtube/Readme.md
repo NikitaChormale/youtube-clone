@@ -7,6 +7,3 @@ Welcome To * Youtube Clone!*
 
 ![home page screenshot](./img.css/Screenshot%202024-03-11%20233420.png)
 
-
-
-git addgit
